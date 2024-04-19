@@ -1,20 +1,20 @@
-### Hi there 👋
-
-### I'm Aiza 🙌, 
+### Hi there 👋, I am Aiza, 
 
 A Software Engineer and a Data Analyst who can help businesses mine and interpret data to make informed business decisions through Descriptive, Predictive and Prespective analyses. Skilled in Structuring and Getting insightful reports from data by Analysing valuable data sources to uncover trends and patterns. Strong foundation in Machine learning algorithms and concepts.
 
 
-
-
-**Talking about Personal Stuffs:**
+### Talking about Personal Stuffs:
 
 - 🔭 I’m currently doing Data Science course with CoGrammar.
 - 🌱 I’m learning Tableau. 
 - ⚡ Check out my latest study [Project](https://github.com/Aiza-D/Medical-Insurance-Cost/tree/master)
 
+### Hands-on experience with:
 
-**Languages and Tools:**
+Data Cleaning and pre-processing, Exploratory Data Analysis, Time Series Analysis, Forecasting, Data Visualisation, Regression Analysis, Decision trees, Clustering, Data Wrangling, Anomaly Detection, Supervised and Unsupervised Machine Learning models and algorithms, Hypotheses Testing. 
+
+
+### Languages and Tools:
 
 <code><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/></code>
