@@ -11,9 +11,7 @@ A Software Engineer and a Data Analyst who can help businesses mine and interpre
 
 - 🔭 I’m currently doing Data Science course with CoGrammar.
 - 🌱 I’m learning Tableau. 
-- ⚡ Check out my latest study [Project](https://github.com/Aiza-D/Medical-Insurance-Cost/tree/master![image](https://github.com/Aiza-D/Aiza-D/assets/145233999/7b2e317e-c95e-4ed7-8e01-2cce319c1d0f)
-)
-
+- ⚡ Check out my latest study [Project]("https://github.com/Aiza-D/Medical-Insurance-Cost/tree/master!")
 
 
 **Languages and Tools:**
