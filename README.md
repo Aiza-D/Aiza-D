@@ -15,13 +15,16 @@ A Software Engineer and a Data Analyst who can help businesses mine and interpre
 * Exploratory, Predictive and Prescriptive Data Analysis
 * Time Series Analysis
 * Data Forecasting
-* Data manipulation and Visualisation
+* Data Manipulation and Visualisation
 * Strong grasp of Statistical analysis and Data Modelling.
 * Sampling, Resampling and Hypotheses Testing.
 * Data Wrangling
 * Anomaly Detection
 * Supervised and Unsupervised Machine Learning Models and Algorithms
 * Non-Linear Optimisation
+* Machine Learning for Image Processing
+* Object Oriented Programming
+
 
 ### Languages and Tools:
 
