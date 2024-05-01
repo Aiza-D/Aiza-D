@@ -24,6 +24,7 @@ A Software Engineer and a Data Analyst who can help businesses mine and interpre
 * Non-Linear Optimisation
 * Machine Learning for Image Processing
 * Object Oriented Programming
+* Strong grasp of Statistical analysis and Data Modelling
 
 
 ### Languages and Tools:
