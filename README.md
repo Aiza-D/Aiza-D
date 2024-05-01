@@ -22,7 +22,7 @@ A Software Engineer and a Data Analyst who can help businesses mine and interpre
 •	Anomaly Detection 
 •	Supervised and Unsupervised Machine Learning Models and Algorithms
 •	Non-Linear Optimisation
-![image](https://github.com/Aiza-D/Aiza-D/assets/145233999/2e0a1767-1d58-4b3e-874b-31493018820c)
+
 
 
 
