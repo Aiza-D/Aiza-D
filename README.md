@@ -5,7 +5,7 @@ A Software Engineer and a Data Analyst who can help businesses mine and interpre
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently doing Data Science course with HyperionDev.
+- 🔭 I’m recently completed Data Science course with HyperionDev.
 - ⚡  I have completed Professional Certificate in Data Analytics.
 - 🌱 I’m learning Tableau. 
 - ⚡ Check out my latest study [Project](https://github.com/Aiza-D/Medical-Insurance-Cost/tree/master)
